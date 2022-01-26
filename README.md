@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Software Engineering
 - 📫 How to reach me: 
-![LinkedIn](https://img.shields.io/badge/linkedin-#0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
-- 😄 Pronouns:**WE,US,GROWTH**
+https://www.linkedin.com/in/ehigie-ikpea/
+- 😄 Pronouns: **WE,US,GROWTH**
 - ⚡ Fun fact: chess player and love to live.
