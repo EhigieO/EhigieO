@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **EhigieO/EhigieO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/LinkedIn-#0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: chess player and love to live.
--->
