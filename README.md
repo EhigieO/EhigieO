@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently playing around with AWS-EC2, Docker, Jenkins and Kubernetes
 - 🌱 I’m currently learning Golang, mux and Gin
-- 👯 I’m looking to collaborate on realLife Projects
+- 👯 I’m looking to collaborate on open source Projects
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Software Engineering
 - 📫 How to reach me: 
